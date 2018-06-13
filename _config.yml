@@ -85,6 +85,6 @@ deploy:
 
 admin:
   username: takumiCX
-  password_hash: $2a$10$cipJaRo3FCt1gV/pWvUToOH6KBexkdC2yYr65LbA78edzNnkvcXQ.
-  secret: hey hexo
-  deployCommand: 'sudo hexo deploy'
+  password_hash: $2a$10$mrpg5lJ2vUAVI0ehJrDY4ez9AfxgB1opAW3hNn2/isqhicIY7kMwC
+  secret: my super secret phrase
+  deployCommand: './hexo-generate.sh'
