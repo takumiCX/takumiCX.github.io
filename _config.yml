@@ -80,7 +80,7 @@ theme: landscape
 
 deploy:
   type: git
-  repository: git@github.com:takumiCX/takumiCX.github.io.git
+  repository: https://github.com/takumiCX/takumiCX.github.io.git
   branch: master
 
 admin:
